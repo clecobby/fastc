@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <div className="container">
         <h1>
-         Bacchus Tech Website
+         FastCloud Website
           <br />
           Coming Soon
         </h1>
