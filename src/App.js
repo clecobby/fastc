@@ -12,9 +12,9 @@ function App() {
     <div className="App">
       <div className="container">
         <h1>
-         FastCloud Website
+         FastCloud Website Under Maintenance
           <br />
-          Coming Soon
+          We'll be right back
         </h1>
         <Timer />
         <Optin />
