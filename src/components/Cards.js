@@ -12,41 +12,41 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='images/software.jpg'
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
+              text='We design and develop Applications (Web,Mobile) for your enterprise needs. We also sell softwares from our partners'
               label='Software Development'
-              path='/services'
+              // path='/services'
             />
             <CardItem
               src='images/cloud.jpg'
-              text='Travel through the Islands of Bali in a Private Cruise'
+              text='We provide technical support for cloud data centers'
               label='Cloud Services'
-              path='/services'
+              // path='/services'
             />
              <CardItem
               src='images/Networking.jpg'
-              text='Travel through the Islands of Bali in a Private Cruise'
+              text='We design and implement enterprise grade networks for companies'
               label='Networking'
-              path='/services'
+              // path='/services'
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
               src='images/servers.jpg'
-              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
+              text='We provide technical support for different servers and Operating systems'
               label='Servers And Storages'
-              path='/services'
+              // path='/services'
             />
             <CardItem
               src='images/security.jpg'
-              text='Experience Football on Top of the Himilayan Mountains'
+              text='We provide industry grade security for all our solutions'
               label='Security'
-              path='/products'
+              // path='/products'
             />
             <CardItem
               src='images/supplies.png'
-              text='Ride through the Sahara Desert on a guided camel tour'
+              text='We procure quality IT accessories for companies'
               label='Suppliers'
-              path='/sign-up'
+              // path='/sign-up'
             />
           </ul>
         </div>

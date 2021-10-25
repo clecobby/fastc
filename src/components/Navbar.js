@@ -64,7 +64,7 @@ function Navbar() {
               >
                 Partners
               </Link> */}
-              <a className='nav-links' href='#partners'>Partners</a>
+              {/* <a className='nav-links' href='#partners'>Partners</a> */}
 
             </li>
             <li className='nav-item'>
